@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://pablo-06-cs.github.io/sitemap.xml

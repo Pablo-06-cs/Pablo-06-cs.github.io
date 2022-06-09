@@ -1,0 +1,166 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "PHRONIC",
+    "description": "",
+    "home_page_url": "https://pablo-06-cs.github.io",
+    "feed_url": "https://pablo-06-cs.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "PABLO Y HUGO"
+    },
+    "items": [
+        {
+            "id": "https://pablo-06-cs.github.io/valores.html",
+            "url": "https://pablo-06-cs.github.io/valores.html",
+            "title": "VALORES",
+            "summary": "Descubre los valores que mueven el día a día de Phronic&nbsp;&hellip;",
+            "content_html": "\n  <p class=\"blanco\">\n    Descubre los valores que mueven el día a día de Phronic&nbsp;\n  </p>\n\n  <p>\n    CALIDAD: Intentamos que sea la mejor en todas las ocasiones, ofreciendo al cliente un buen producto.\n  </p>\n\n  <p>\n    INNOVACIÓN: Es algo que desarrollamos en todos nuestros nuevos proyectos.\n  </p>\n\n  <p>\n    TRABAJO EN EQUIPO: Tenemos a más de 200 trabajadores en activo trabajando en nuestras instalaciones.\n  </p>\n\n  <p>\n    PUNTUALIDAD: Lo valoramos mucho y nuestros trabajadores lo respetan siempre.\n  </p>\n\n  <p>\n    SEGURIDAD: Es la finalidad de todo nuestro trabajo.<br>\n  </p>\n\n  <p>\n    \n  </p>",
+            "image": "https://pablo-06-cs.github.io/media/posts/11/VALORES.jpeg",
+            "author": {
+                "name": "PABLO Y HUGO"
+            },
+            "tags": [
+                   "TRABAJAMOS POR TU SEGURIDAD"
+            ],
+            "date_published": "2022-06-09T13:23:12+02:00",
+            "date_modified": "2022-06-09T13:54:20+02:00"
+        },
+        {
+            "id": "https://pablo-06-cs.github.io/ofertas.html",
+            "url": "https://pablo-06-cs.github.io/ofertas.html",
+            "title": "TRABAJAMOS POR TU SEGURIDAD",
+            "summary": "CALIDAD - INNOVACIÓN - TRABAJO EN EQUIPO - PUNTUALIDAD - SEGURIDAD&hellip;",
+            "content_html": "<p> </p>\n<table class=\"align-center\" style=\"border-collapse: collapse; width: 750px; height: 669px; background-color: #ecf0f1; border-color: #34495e; border-style: solid;\" border=\"1\">\n<tbody>\n<tr style=\"height: 100.172px;\">\n<td class=\"align-center\" style=\"width: 383px; height: 100.172px;\">\n<h2>PARA USO DOMÉSTICO</h2>\n</td>\n<td class=\"align-center\" style=\"width: 366px; height: 100.172px;\">\n<h2>PARA EMPRESAS</h2>\n</td>\n</tr>\n<tr style=\"height: 303.656px;\">\n<td style=\"width: 383px; height: 303.656px;\">\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://pablo-06-cs.github.io/media/posts/10/FAMILIA-2.jpeg\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://pablo-06-cs.github.io/media/posts/10/responsive/FAMILIA-2-xs.jpeg 300w ,https://pablo-06-cs.github.io/media/posts/10/responsive/FAMILIA-2-sm.jpeg 480w ,https://pablo-06-cs.github.io/media/posts/10/responsive/FAMILIA-2-md.jpeg 768w ,https://pablo-06-cs.github.io/media/posts/10/responsive/FAMILIA-2-lg.jpeg 1024w ,https://pablo-06-cs.github.io/media/posts/10/responsive/FAMILIA-2-xl.jpeg 1360w ,https://pablo-06-cs.github.io/media/posts/10/responsive/FAMILIA-2-2xl.jpeg 1600w\"  alt=\"\" width=\"1024\" height=\"683\"> </figure>\n</td>\n<td style=\"width: 366px; height: 303.656px;\">\n<div class=\"post__inner post__entry\">\n<figure class=\"post__image\"><img loading=\"lazy\"  style=\"color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal); outline: 3px solid rgba(var(--color-primary-rgb), 0.55)  !important;\" src=\"https://pablo-06-cs.github.io/media/posts/10/EMPRESA.jpg\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://pablo-06-cs.github.io/media/posts/10/responsive/EMPRESA-xs.jpg 300w ,https://pablo-06-cs.github.io/media/posts/10/responsive/EMPRESA-sm.jpg 480w ,https://pablo-06-cs.github.io/media/posts/10/responsive/EMPRESA-md.jpg 768w ,https://pablo-06-cs.github.io/media/posts/10/responsive/EMPRESA-lg.jpg 1024w ,https://pablo-06-cs.github.io/media/posts/10/responsive/EMPRESA-xl.jpg 1360w ,https://pablo-06-cs.github.io/media/posts/10/responsive/EMPRESA-2xl.jpg 1600w\"  alt=\"\" width=\"1140\" height=\"760\"> </figure>\n</div>\n<footer class=\"post__inner post__footer\"></footer></td>\n</tr>\n<tr style=\"height: 136.75px;\">\n<td style=\"width: 383px; height: 136.75px;\"><address class=\"align-center\">Te ofrecemos seguridad en el correo electrónico, gestión de la información en la nube y protección, supervisión y respuesta a amenazas 24/7.</address></td>\n<td style=\"width: 366px; height: 136.75px;\">\n<div class=\"post__inner post__entry\"><address class=\"align-center\">Te  ofrecemos rendimiento, protección contra amenazas y compras seguras.</address></div>\n</td>\n</tr>\n<tr style=\"height: 128.422px;\">\n<td class=\"align-center\" style=\"width: 383px; height: 128.422px;\"><a href=\"https://pablo-06-cs.github.io/para-uso-domestico.html\" class=\"button\">FULL STORY</a></td>\n<td style=\"width: 366px; height: 128.422px;\">\n<div class=\"post__inner post__entry\"><a href=\"https://pablo-06-cs.github.io/para-empresas.html\" class=\"button\">FULL STORY</a></div>\n</td>\n</tr>\n</tbody>\n</table>\n<table style=\"border-collapse: collapse; width: 103.989%; height: 100.719px; background-color: #ecf0f1;\" border=\"1\">\n<tbody>\n<tr style=\"height: 50.3594px;\">\n<td class=\"align-center\" style=\"width: 100%; height: 50.3594px;\">\n<h2>VALORES DE NUESTRA EMPRESA</h2>\n</td>\n</tr>\n<tr style=\"height: 50.3594px;\">\n<td style=\"width: 100%; height: 50.3594px;\">\n<p><span style=\"font-weight: 400;\">CALIDAD - INNOVACIÓN - T</span><span style=\"font-weight: 400;\">RABAJO EN EQUIPO - P</span><span style=\"font-weight: 400;\">UNTUALIDAD - </span><span style=\"font-weight: 400;\">SEGURIDAD</span></p>\n<p class=\"align-center\"><a href=\"https://pablo-06-cs.github.io/valores.html\" class=\"button\">FULL STORY</a></p>\n</td>\n</tr>\n</tbody>\n</table>",
+            "author": {
+                "name": "PABLO Y HUGO"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-06-08T11:34:51+02:00",
+            "date_modified": "2022-06-09T13:59:54+02:00"
+        },
+        {
+            "id": "https://pablo-06-cs.github.io/donde-hemos-llegado.html",
+            "url": "https://pablo-06-cs.github.io/donde-hemos-llegado.html",
+            "title": "¿DÓNDE HEMOS LLEGADO?",
+            "summary": "Empezamos siendo unos empresarios emprendedores en Castellón y en 5 años&hellip;",
+            "content_html": "\n  <p>\n    Empezamos siendo unos empresarios emprendedores en Castellón y en 5 años hemos llegado a ser una de las empreas de cibersegudiad más importantes del mundo.\n  </p>\n\n  <p>\n    Administramos nuestros productos a algunas empresas muy prestiguisoas del mercado, como Poco Phone, Apple y también Bosch.\n  </p>",
+            "author": {
+                "name": "PABLO Y HUGO"
+            },
+            "tags": [
+                   "¿QUIÉNES SOMOS?"
+            ],
+            "date_published": "2022-06-06T12:12:28+02:00",
+            "date_modified": "2022-06-06T12:14:45+02:00"
+        },
+        {
+            "id": "https://pablo-06-cs.github.io/los-desarrolladores.html",
+            "url": "https://pablo-06-cs.github.io/los-desarrolladores.html",
+            "title": "LOS DESARROLLADORES",
+            "summary": "PABLO MONTOLIO Y HUGO POSTIGO Somos dos grandes empresarios que iniciamos&hellip;",
+            "content_html": "\n  <p>\n    PABLO MONTOLIO Y HUGO POSTIGO\n  </p>\n\n  <p>\n    Somos dos grandes empresarios que iniciamos este ambicioso proyecto y hemos triunfado.\n  </p>\n\n  <p>\n    Hemos pasados por malos momentos, sin clientes ni dinero, pero ahora estamos por todo lo alto en ciberseguridad mundial.&nbsp;\n  </p>\n\n  <p>\n    También tenemos un gran número de trabajadores en nuestras oficinas. Algunos de los más importantes son los siguientes:\n  </p>\n\n  <p>\n    -Carmen Artigas Brugal\n  </p>\n\n  <p>\n    -Alberto Marínez Lacambra\n  </p>\n\n  <p>\n    -Lucía Velasco Jones\n  </p>\n\n  <p>\n    -Juan Emilio Ayuso González\n  </p>\n\n  <p>\n    -Xamhpy González Català\n  </p>\n\n  <p>\n    -Sanhaoreo Jiménez Madueño\n  </p>",
+            "author": {
+                "name": "PABLO Y HUGO"
+            },
+            "tags": [
+                   "¿QUIÉNES SOMOS?"
+            ],
+            "date_published": "2022-06-06T12:10:55+02:00",
+            "date_modified": "2022-06-09T13:35:32+02:00"
+        },
+        {
+            "id": "https://pablo-06-cs.github.io/donde-estamos.html",
+            "url": "https://pablo-06-cs.github.io/donde-estamos.html",
+            "title": "¿DÓNDE ESTAMOS?",
+            "content_html": "\n  <p>\n    \n  </p>",
+            "author": {
+                "name": "PABLO Y HUGO"
+            },
+            "tags": [
+                   "¿QUIÉNES SOMOS?"
+            ],
+            "date_published": "2022-06-06T11:54:50+02:00",
+            "date_modified": "2022-06-06T12:08:46+02:00"
+        },
+        {
+            "id": "https://pablo-06-cs.github.io/firebox.html",
+            "url": "https://pablo-06-cs.github.io/firebox.html",
+            "title": "FIREBOX",
+            "summary": "Es un paquete de seguridad completa para grandes empresas que necesitan&hellip;",
+            "content_html": "<p class=\"align-center\"><span style=\"font-weight: 400;\">Es un paquete de seguridad completa para grandes empresas que necesitan un extra.</span></p>\n<p>52.000$ el complelto completo</p>",
+            "author": {
+                "name": "PABLO Y HUGO"
+            },
+            "tags": [
+                   "PRODUCTOS PARA EMPRESAS"
+            ],
+            "date_published": "2022-06-02T14:03:17+02:00",
+            "date_modified": "2022-06-09T14:07:52+02:00"
+        },
+        {
+            "id": "https://pablo-06-cs.github.io/router-wifi.html",
+            "url": "https://pablo-06-cs.github.io/router-wifi.html",
+            "title": "ROUTER WIFI",
+            "summary": "Este router contine un firewall y así tener seguridad ahorrando espacio.",
+            "content_html": "<p class=\"align-center\"><span style=\"font-weight: 400;\">Este router contine un firewall y así tener seguridad ahorrando espacio. Ofrecemos la red WIFI con ello incluido y tenemos tanto servicio de instalación como de mantenimiento.</span></p>\n<p class=\"align-center\">Póngase en contacto con nosotros en las oficinas.</p>",
+            "image": "https://pablo-06-cs.github.io/media/posts/5/5-2.jpg",
+            "author": {
+                "name": "PABLO Y HUGO"
+            },
+            "tags": [
+                   "PRODUCTOS"
+            ],
+            "date_published": "2022-06-02T13:58:29+02:00",
+            "date_modified": "2022-06-02T13:58:38+02:00"
+        },
+        {
+            "id": "https://pablo-06-cs.github.io/pen-drives.html",
+            "url": "https://pablo-06-cs.github.io/pen-drives.html",
+            "title": "PEN DRIVES",
+            "summary": "Incluyen un firewall interior para conseguir una gran seguridad en los&hellip;",
+            "content_html": "<p class=\"align-center\"><span style=\"font-weight: 400;\">Incluyen un firewall interior para conseguir una gran seguridad en los archivos de nuestros clientes</span></p>",
+            "image": "https://pablo-06-cs.github.io/media/posts/4/61QXdM47nnL._AC_SY355_.jpg",
+            "author": {
+                "name": "PABLO Y HUGO"
+            },
+            "tags": [
+                   "PRODUCTOS"
+            ],
+            "date_published": "2022-06-02T13:54:58+02:00",
+            "date_modified": "2022-06-02T14:04:18+02:00"
+        },
+        {
+            "id": "https://pablo-06-cs.github.io/firewall.html",
+            "url": "https://pablo-06-cs.github.io/firewall.html",
+            "title": "FIREWALL",
+            "summary": "Previene y protege una red privada. 300$",
+            "content_html": "<p class=\"align-center\"><span style=\"font-weight: 400;\">Previene y protege una red privada.</span></p>\n<p class=\"align-center\">300$</p>",
+            "image": "https://pablo-06-cs.github.io/media/posts/3/2.jpeg",
+            "author": {
+                "name": "PABLO Y HUGO"
+            },
+            "tags": [
+                   "PRODUCTOS"
+            ],
+            "date_published": "2022-06-02T13:49:41+02:00",
+            "date_modified": "2022-06-09T14:08:24+02:00"
+        },
+        {
+            "id": "https://pablo-06-cs.github.io/para-empresas.html",
+            "url": "https://pablo-06-cs.github.io/para-empresas.html",
+            "title": "PARA EMPRESAS",
+            "summary": "Seguridad del correo electrónico, gestión de la información en la nube&hellip;",
+            "content_html": "<p><span style=\"font-weight: 400;\">Seguridad del correo electrónico, gestión de la información en la nube y protección, supervisión y respuesta a amenazas 24/7.</span></p>\n<p><span style=\"font-weight: 400;\">-Seguridad de correo electrónico: detenemos las estafas por correo electrónico corporativo comprometido y el ransomware con protección avanzada, prevención de fugas de datos y cifrado para servicios de correo electrónico.</span></p>\n<p><span style=\"font-weight: 400;\">-Gestión de la información en la nube: la infraestructura de la empresa estará totalmente protegida, reduciendo de forma proactiva el riesgo empresarial derivado de actividades no autorizadas, vulnerabilidades, errores de configuración e identidades no seguras.</span></p>\n<p><span style=\"font-weight: 400;\">-Protección, supervisión y respuesta a amenazas 24/7: libérese de la carga que supone la supervisión y respuesta a amenazas 24/7 con un equipo proactivo de servicios gestionados que se encarga de monitorizar sus entornos a todas horas en caso de amenaza.</span></p>",
+            "image": "https://pablo-06-cs.github.io/media/posts/2/EMPRESA.jpg",
+            "author": {
+                "name": "PABLO Y HUGO"
+            },
+            "tags": [
+                   "TRABAJAMOS POR TU SEGURIDAD"
+            ],
+            "date_published": "2022-06-02T13:32:24+02:00",
+            "date_modified": "2022-06-02T13:40:47+02:00"
+        }
+    ]
+}
